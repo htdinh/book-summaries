@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to Book Summaries
 
-You can use the [editor on GitHub](https://github.com/Dinh-Hung-Tu/book-summaries/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I keep this page to review the books that I have read. I hope that by keeping the notes, my reading would result in better retention over the time and at some point in the future I can easily review them again. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Books
+#### 1. Mining of Massive Data Sets 
+Authors: Anand Rajaraman, Jeffrey D. Ullman
 
-### Markdown
+Google Book description: This book focuses on practical algorithms that have been used to solve key problems in data mining and can be applied successfully to even the largest datasets. It begins with a discussion of the map-reduce framework, an important tool for parallelizing algorithms automatically. The authors explain the tricks of locality-sensitive hashing and stream processing algorithms for mining data that arrives too fast for exhaustive processing. Other chapters cover the PageRank idea and related tricks for organizing the Web, the problems of finding frequent itemsets and clustering. This second edition includes new and extended coverage on social networks, machine learning and dimensionality reduction.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here is the website of the book and also the course taught in Stanford http://www.mmds.org/. 
 
-```markdown
-Syntax highlighted code block
+- [Chapter 2: Large scale file system and Map-Reduce](http://nbviewer.jupyter.org/github/Dinh-Hung-Tu/book-summaries/blob/master/mining-of-massive-datasets/Chapter_2_Large_Scale_File_Systems_and_Map_Reduce.ipynb)
 
-# Header 1
-## Header 2
-### Header 3
+- [Chapter 3: Finding similar items](http://nbviewer.jupyter.org/github/Dinh-Hung-Tu/book-summaries/blob/master/mining-of-massive-datasets/Chapter_3_Similar_Items.ipynb)
 
-- Bulleted
-- List
+- [Chapter 7: Clustering](http://nbviewer.jupyter.org/github/Dinh-Hung-Tu/book-summaries/blob/master/mining-of-massive-datasets/Chapter_7_Clustering.ipynb)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Dinh-Hung-Tu/book-summaries/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Chapter 9: Recommendation System](http://nbviewer.jupyter.org/github/Dinh-Hung-Tu/book-summaries/blob/master/mining-of-massive-datasets/Chapter_9_Recommendation_System.ipynb)
