@@ -10,10 +10,10 @@ Google Book description: This book focuses on practical algorithms that have bee
 
 Here is the website of the book and also the course taught in Stanford http://www.mmds.org/. 
 
-- [Chapter 2: Large scale file system and Map-Reduce](http://nbviewer.jupyter.org/github/Dinh-Hung-Tu/book-summaries/blob/master/mining-of-massive-datasets/Chapter_2_Large_Scale_File_Systems_and_Map_Reduce.ipynb){:target="_blank"}
+- [Chapter 2: Large scale file system and Map-Reduce](http://nbviewer.jupyter.org/github/Dinh-Hung-Tu/book-summaries/blob/master/mining-of-massive-datasets/Chapter_2_Large_Scale_File_Systems_and_Map_Reduce.ipynb)
 
-- [Chapter 3: Finding similar items](http://nbviewer.jupyter.org/github/Dinh-Hung-Tu/book-summaries/blob/master/mining-of-massive-datasets/Chapter_3_Similar_Items.ipynb){:target="_blank"}
+- [Chapter 3: Finding similar items](http://nbviewer.jupyter.org/github/Dinh-Hung-Tu/book-summaries/blob/master/mining-of-massive-datasets/Chapter_3_Similar_Items.ipynb)
 
-- [Chapter 7: Clustering](http://nbviewer.jupyter.org/github/Dinh-Hung-Tu/book-summaries/blob/master/mining-of-massive-datasets/Chapter_7_Clustering.ipynb){:target="_blank"}
+- [Chapter 7: Clustering](http://nbviewer.jupyter.org/github/Dinh-Hung-Tu/book-summaries/blob/master/mining-of-massive-datasets/Chapter_7_Clustering.ipynb)
 
-- [Chapter 9: Recommendation System](http://nbviewer.jupyter.org/github/Dinh-Hung-Tu/book-summaries/blob/master/mining-of-massive-datasets/Chapter_9_Recommendation_System.ipynb){:target="_blank"}
+- [Chapter 9: Recommendation System](http://nbviewer.jupyter.org/github/Dinh-Hung-Tu/book-summaries/blob/master/mining-of-massive-datasets/Chapter_9_Recommendation_System.ipynb)
